@@ -18,4 +18,12 @@ We use multiple factors to detect the behavior of a person, including the object
 ## What's next for AI Mask Guard in Canteen
 The technique is not limited to circumstances including canteens, but can also serve scenarios including exam venues, where detecting possible cheating and talking is demanded, and so on.
 ## Basic Structure
-![Project structure] img_readme/img-6.jpg
+![Project structure] (img_readme/img-6.jpg)
+## Demo Picture
+![Mask-detector](img_readme/img-2.jpg)
+![Cutlery-detector](img_readme/img-1.jpg)
+## Real time interaction
+![Real time interaction](img_readme/img-3.jpg)
+![Real time interaction](img_readme/img-4.jpg)
+![Real time interaction](img_readme/img-5.jpg)
+
