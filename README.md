@@ -21,7 +21,6 @@ The technique is not limited to circumstances including canteens, but can also s
 ![Project structure](img_readme/img-6.jpg)
 ## Demo Picture
 ![Mask-detector](img_readme/img-2.png)
-![Cutlery-detector](img_readme/img-2.png)
 ## Real time interaction
 ![Real time interaction](img_readme/img-3.jpg)
 ![Real time interaction](img_readme/img-4.jpg)
